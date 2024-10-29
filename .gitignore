@@ -1,1 +1,3 @@
-content/
+.venv/
+DH2024_Corpus_Release/
+.DS_Store
