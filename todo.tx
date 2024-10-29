@@ -1,0 +1,8 @@
+- way to read all the transcripts
+- for each transcript
+    - be able to get (speaker, speech)
+- run NER on speeches
+- compare names to speaker name?
+    - research different ways of referring to people
+
+Output transcript with names tagged; also as speaker or not speaker!
